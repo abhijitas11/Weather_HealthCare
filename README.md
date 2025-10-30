@@ -15,7 +15,7 @@ and Claude 3 Sonnet (via AWS Bedrock) to generate context-aware responses.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - SentenceTransformer (all-MiniLM-L6-v2)
@@ -24,7 +24,7 @@ and Claude 3 Sonnet (via AWS Bedrock) to generate context-aware responses.
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 Install dependencies:
 pip install -r requirements.txt
@@ -35,7 +35,7 @@ streamlit run app.py
 
 ---
 
-## ⚠ Disclaimer
+##  Disclaimer
 This chatbot provides **general wellness guidance only**.  
 It does **not** offer medical diagnosis.  
 For serious health issues, consult a healthcare professional.
